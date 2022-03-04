@@ -1,8 +1,5 @@
 
 ## LoadingDrawable: Android cool animation collection
-[前言](http://www.jianshu.com/p/6e0ac5af4e8b)&nbsp;&nbsp;&nbsp;
-[CircleRotate源码解析](http://www.jianshu.com/p/1c3c6fc1b7ff)&nbsp;&nbsp;&nbsp;
-[Fish源码解析](http://blog.csdn.net/XSF50717/article/details/51494266)<br/>
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-LoadingDrawable-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3450)
 
  LoadingDrawable is some android animations implement of drawable: a library can be used in the pull-down to refresh, the placeholders of image loading and the time-consuming tasks. This project idea is from the [link](http://mp.weixin.qq.com/s?__biz=MjM5MDMxOTE5NA==&mid=402703079&idx=2&sn=2fcc6746a866dcc003c68ead9b68e595&scene=2&srcid=0302A7p723KK8E5gSzLKb2ZL&from=timeline&isappinstalled=0#wechat_redirect).<br/> 
